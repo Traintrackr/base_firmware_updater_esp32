@@ -20,6 +20,7 @@
  *  
  *  Set board type to: ESP32 Dev Module
  *  Set the flash size to: Minimal SPIFFS 4MB with spiffs (1.9MB APP with OTA, 190MB SPIFFS)
+ *  Set the upload speed to: 460800
  *  Set serial port to the correct port
  *  
  *  Then set the WiFi and update_code variables below, Once this has been done you can flash the board.
